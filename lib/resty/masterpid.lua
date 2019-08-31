@@ -40,4 +40,4 @@ local function get_masterpid()
     end
 end
 
-return get_masterpid
+return get_masterpid < no return ! Thema is the End of Doof Human!
